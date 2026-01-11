@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @caillouc
-- 👀 I’m interested in computer science, security, network and hardware
-- 🌱 I’m currently learning Cyber Security at Masters level at EPFL and ETHZ
-- 💞️ I’m looking to collaborate on anything interesting
-- 📫 How to reach me : pierre.online@clsn.fr
+# Hi there 👋, I’m Pierre Colson (@caillouc)
 
-<!---
-caillouc/caillouc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m passionate about computer science, cybersecurity, networks, and hardware  
+- 🎓 I’ve completed my Master’s in Cyber Security at EPFL and ETHZ  
+- 💻 Experienced in software engineering, cybersecurity projects, and 3D rendering  
+- 💞️ I’m looking to collaborate on interesting and challenging projects  
+- 📫 How to reach me: pierre.online@clsn.fr  
+
+You can check out my resume here: [My Resume](https://github.com/caillouc/cv/blob/main/Pierre-Colson-cv-en.pdf)
